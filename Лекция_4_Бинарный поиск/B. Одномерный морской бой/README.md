@@ -68,7 +68,7 @@
       <!--l. 57-->
       <p style="text-indent: 0em;">
       <!--l. 58-->
-      </p><p style="text-indent: 0em;"><img alt="PIC" src="/testsys/statement-image?imageId=8571481bcbced5361a26b4259f07da99308747d8db9f6c3e6a84ff9641606084"></p>
+      </p><p style="text-indent: 0em;"><img alt="PIC" src="https://contest.yandex.ru/testsys/statement-image?imageId=8571481bcbced5361a26b4259f07da99308747d8db9f6c3e6a84ff9641606084"></p>
       <p></p>
       </div>
       
