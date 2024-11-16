@@ -27,7 +27,7 @@
          диагональю, переложив всего три спички.
       </p>
       <p>
-         <div style="text-align:center;"><img class="user-image" src="/testsys/statement-image?imageId=19e8753f7af3e8177364a572d3f003010c7aebc5ad2417c8bf27b39b5ddc2437"> 
+         <div style="text-align:center;"><img class="user-image" src="https://contest.yandex.ru/testsys/statement-image?imageId=19e8753f7af3e8177364a572d3f003010c7aebc5ad2417c8bf27b39b5ddc2437"> 
          </div>
       </p>
       <p>Головоломки, которые решает Вася, всегда имеют решение. Это значит, что набор спичек, используемый в изображении <span class="tex-math-text">A</span>, совпадает с набором спичек, используемым в изображении <span class="tex-math-text">B</span>. Кроме того, в одном изображении никогда не встречаются две спички, у которых есть общий участок ненулевой длины (то есть
