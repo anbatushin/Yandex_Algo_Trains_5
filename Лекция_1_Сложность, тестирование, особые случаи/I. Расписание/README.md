@@ -40,8 +40,7 @@
          </p></span><p>Во второй строке содержится одно целое число <span class="tex-math-text">year</span> (<span class="tex-math-text">1800 &le; year &le; 2100</span>)&nbsp;&mdash; год, в который необходимо помочь Илье. 
       </p>
       <p>В каждой из последующих <span class="tex-math-text">N</span> строк расположено по паре чисел <span class="tex-math-text">day</span> <span class="tex-math-text">month</span> (<span class="tex-math-text">day</span>&nbsp;&mdash; целое число, <span class="tex-math-text">month</span>&nbsp;&mdash; слово, между <span class="tex-math-text">day</span> и <span class="tex-math-text">month</span> ровно один пробел), обозначающих, что день <span class="tex-math-text">day</span> месяца <span class="tex-math-text">month</span> является государственным праздником. 
-      </p>
-      <p>В последней строке расположено слово <span class="tex-math-inline"><img class="tex-math" src="/testsys/tex/render/ZGF5XF9vZlxfd2Vlaw==.png"></span>&nbsp;&mdash; день недели первого января в год <span class="tex-math-text">year</span>.
+      </p> <p>В последней строке расположено слово <span class="tex-math-inline"><img class="tex-math" src="https://contest.yandex.ru/testsys/tex/render/ZGF5XF9vZlxfd2Vlaw==.png"></span>&nbsp;&mdash; день недели первого января в год <span class="tex-math-text">year</span>.
       </p>
       <p>Гарантируется, что все даты указаны корректно (в том числе указанный день недели первого января действительно является днём
          недели первого января соответствующего года <span class="tex-math-text">year</span>) и все дни государственных праздников различны. 
