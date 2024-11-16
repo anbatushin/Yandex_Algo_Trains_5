@@ -124,9 +124,9 @@ Tuesday
       <p>Таким образом, лучший вариант для выходного дня&nbsp;&mdash; вторник, худший&nbsp;&mdash; среда, и <span style="font-weight:bold;">единственным</span> правильным ответом в данном примере является <span class="tex-monospace">Tuesday Wednesday</span>.
       </p>
       <p>Соответствие названий месяцев и дней недели в английском и русском языках:</p>
-      <p><img class="user-image" src="/testsys/statement-image?imageId=1bc9b8d4e13c791b803b4a91c9b5ef2990745beefe9c2ad2253fe3fda6f0d46f"></p>
+      <p><img class="user-image" src="https://contest.yandex.ru/testsys/statement-image?imageId=1bc9b8d4e13c791b803b4a91c9b5ef2990745beefe9c2ad2253fe3fda6f0d46f"></p>
       <p>Соответствие названий месяцев и количества дней в них: </p>
-      <p><img class="user-image" src="/testsys/statement-image?imageId=9f749e6620b03d62261d0032a307c1044a5e264528afa0b44ec5f02f7fc8977b"></p>
+      <p><img class="user-image" src="https://contest.yandex.ru/testsys/statement-image?imageId=9f749e6620b03d62261d0032a307c1044a5e264528afa0b44ec5f02f7fc8977b"></p>
       <p>В феврале 29 дней только в високосные года. Год является високосным, если он кратен 400, либо кратен 4 и не кратен 100. Например,
          1996 и 2000 являются високосными, а 1999 и 1900 "&mdash; нет. 
       </p>
