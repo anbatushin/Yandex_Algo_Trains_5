@@ -109,7 +109,7 @@
       <!--l. 62-->
       <p style="text-indent: 0em;">
       <!--l. 63-->
-      </p><p style="text-indent: 0em;"><img alt="PIC" src="/testsys/statement-image?imageId=bcb7434301c02a4a5dea832a3d38b7de2d9b720fd9294bfc6fbbf564a9759242"></p>
+      </p><p style="text-indent: 0em;"><img alt="PIC" src="https://contest.yandex.ru/testsys/statement-image?imageId=bcb7434301c02a4a5dea832a3d38b7de2d9b720fd9294bfc6fbbf564a9759242"></p>
       <p></p>
       </div>
       
