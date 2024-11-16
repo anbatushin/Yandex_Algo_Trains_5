@@ -39,7 +39,7 @@
    <h2>Формат вывода</h2>
    <div class="output-specification"><span style="">
          <p>Для каждого набора тестовых данных в первой строке выведите число <span class="tex-math-text">k</span> &mdash; количество отрезков в вашем разбиении.
-         </p></span><p>Затем в следующей строке выведите <span class="tex-math-text">k</span> чисел <span class="tex-math-text">len<sub>1</sub>, len<sub>2</sub>, &hellip;, len<sub>k</sub></span> <span class="tex-math-inline"><img class="tex-math" src="/testsys/tex/render/KDEgXGxlcSBsZW5faSBcbGVxIG4sXCBcc3VtXGxpbWl0c197aSA9IDF9XntrfWxlbl9pID0gbik=.png"></span> &mdash; длины отрезков в порядке слева направо.
+         </p></span><p>Затем в следующей строке выведите <span class="tex-math-text">k</span> чисел <span class="tex-math-text">len<sub>1</sub>, len<sub>2</sub>, &hellip;, len<sub>k</sub></span> <span class="tex-math-inline"><img class="tex-math" src="https://contest.yandex.ru/testsys/tex/render/KDEgXGxlcSBsZW5faSBcbGVxIG4sXCBcc3VtXGxpbWl0c197aSA9IDF9XntrfWxlbl9pID0gbik=.png"></span> &mdash; длины отрезков в порядке слева направо.
       </p>
    </div>
    <h2>Пример</h2>
